@@ -42,7 +42,7 @@ export default class Auth {
     localStorage.setItem("expires_at", expiresAt);
   };
 
-  isAuthenticated() {
+  isAuthenticated = () => {
     const expiresAt = JSON.parse(localStorage.getItem("expires_at"));
     return new Date().getTime() < expiresAt;
   }
