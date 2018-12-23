@@ -25,10 +25,9 @@ class Profile extends Component {
 
         return (
             <div>
-                <h1>Profile</h1>
-                <p>{profile.nickname}</p>
+                <h1>Profile of {profile.nickname}</h1>
                 <img
-                    style={{ maxWidth: 50, maxHeight: 50 }}
+                    style={{ maxWidth: 100, maxHeight: 100 }}
                     src={profile.picture}
                     alt="profile pic"
                 />
