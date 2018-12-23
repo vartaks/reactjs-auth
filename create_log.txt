@@ -1,0 +1,45 @@
+Microsoft Windows [Version 10.0.17134.472]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+D:\sourabh\repos\github>npx create-react-app react-auth0
+npx: installed 1 in 9.29s
+Path must be a string. Received undefined
+npx: installed 63 in 21.587s
+C:\Users\Sourabh\AppData\Roaming\npm-cache\_npx\13840\node_modules\create-react-app\index.js
+
+Creating a new React app in D:\sourabh\repos\github\react-auth0.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
++ react-dom@16.7.0
++ react-scripts@2.1.1
++ react@16.7.0
+added 1710 packages in 354.685s
+
+Initialized a git repository.
+
+Success! Created react-auth0 at D:\sourabh\repos\github\react-auth0
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd react-auth0
+  npm start
+
+Happy hacking!
+
+D:\sourabh\repos\github>
